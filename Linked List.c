@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-//1306200028 M.Enes Ateş 2.11.2022
-
 typedef struct n{
     int x;
    struct n  * next;
